@@ -36,5 +36,5 @@ terraform.rc
 
 *.lock.*
 
-/examples/current_state.txt
+**current_state.txt
 /resources/subnet_*.json
